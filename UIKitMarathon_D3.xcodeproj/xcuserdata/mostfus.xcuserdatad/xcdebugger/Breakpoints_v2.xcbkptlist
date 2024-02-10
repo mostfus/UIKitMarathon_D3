@@ -3,4 +3,54 @@
    uuid = "743579C0-F793-4078-881F-17DC965B895B"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A71F5F95-3530-410F-904F-A5C4FB61B732"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIKitMarathon_D3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "viewWillLayoutSubviews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A71F5F95-3530-410F-904F-A5C4FB61B732 - 4b74279eaff2260"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIKitMarathon_D3.ViewController.setupConstraints() -&gt; ()"
+                  moduleName = "UIKitMarathon_D3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mostfus/Desktop/UIKitMarathonVorobey/UIKitMarathon_D3/UIKitMarathon_D3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1052">
+               </Location>
+               <Location
+                  uuid = "A71F5F95-3530-410F-904F-A5C4FB61B732 - 39d2748a95bca4ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in UIKitMarathon_D3.ViewController.viewWillLayoutSubviews() -&gt; ()"
+                  moduleName = "UIKitMarathon_D3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mostfus/Desktop/UIKitMarathonVorobey/UIKitMarathon_D3/UIKitMarathon_D3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
